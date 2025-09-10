@@ -18,6 +18,9 @@ footer{
 }
 #container{
 display: flex;
+justify-content: space-between;
+     padding: 4rem;
+      gap: 3rem;
 
 }
 .cartao{
